@@ -2,7 +2,7 @@
 """
 Created on Fri Jun  2 21:41:02 2023
 
-@author: SHASHANK
+@author: SUHAANI
 """
 
 #input genre, will make playlist with 5 songs of that genre 
